@@ -1,2 +1,3 @@
 
-# team2.github.io
+# Team 2
+
